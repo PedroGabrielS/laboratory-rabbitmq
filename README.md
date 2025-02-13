@@ -1,6 +1,6 @@
 # Projeto: Filas com RabbitMQ
 
-Este repositório contém um projeto voltado para fins laboratoriais, com o objetivo de estudar o uso de filas (Queue) utilizando RabbitMQ em conjunto com Laravel.
+Este repositório contém um projeto voltado para fins laboratoriais, com o objetivo de estudar o uso de filas (Queue) utilizando RabbitMQ em conjunto com Laravel. Irei aperfeiçoando e adicionando atualizações com o decorrer do tempo.
 
 ## Tecnologias Utilizadas
 
